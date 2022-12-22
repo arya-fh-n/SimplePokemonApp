@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimplePokeApp</string>
+    <string name="back">Back to list</string>
+    <string name="pokedex_entry">Pokedex Entry</string>
+</resources>
